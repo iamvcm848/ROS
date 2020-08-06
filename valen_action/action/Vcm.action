@@ -1,0 +1,7 @@
+int32 length
+---
+#result definition
+float32 avg
+--- 
+#feedback
+int32[] sequence

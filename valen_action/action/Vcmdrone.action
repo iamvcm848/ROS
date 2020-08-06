@@ -1,0 +1,6 @@
+string move  #based on this the drone will either takeoff or land
+---
+
+---
+string status  # gives the current movement of the drone
+

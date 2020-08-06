@@ -1,0 +1,5 @@
+<launch>
+  <!-- turtlebot_teleop_key already has its own built in velocity smoother -->
+  <node pkg="valen" type="ex1.py" name="vcm_fly"  output="screen">
+  </node>
+</launch>
